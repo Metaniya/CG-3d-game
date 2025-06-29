@@ -24,7 +24,7 @@ This is a **3D Maze Escape Game**, an interactive web application built with **T
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [YOUR_REPOSITORY_URL_HERE]
+    git clone https://github.com/Metaniya/CG-3d-game/edit/main/3d-maze-game/README.md
     cd 3d-maze-escape-game
     ```
 2.  **Open in Browser:**
@@ -33,7 +33,7 @@ This is a **3D Maze Escape Game**, an interactive web application built with **T
 ## Live Demo
 
 Experience the game live here:
-**[YOUR\_GITHUB\_PAGES\_LINK\_HERE]** (e.g., `https://yourusername.github.io/3d-maze-escape-game/`)
+**https://metaniya.github.io/CG-3d-game/** (e.g., `https://yourusername.github.io/3d-maze-escape-game/`)
 
 -----
 
