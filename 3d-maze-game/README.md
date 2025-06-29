@@ -33,7 +33,7 @@ This is a **3D Maze Escape Game**, an interactive web application built with **T
 ## Live Demo
 
 Experience the game live here:
-**https://metaniya.github.io/CG-3d-game/** (e.g., `https://yourusername.github.io/3d-maze-escape-game/`)
+**https://metaniya.github.io/CG-3d-game/** 
 
 -----
 
